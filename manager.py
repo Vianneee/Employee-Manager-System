@@ -1,10 +1,3 @@
-# Split project: storage.py + app_gui.py
-# This canvas contains two files. Copy each section into its own file in the same folder.
-
-"""
-File 1: storage.py
-Handles file I/O and data model for the Employee Management System.
-"""
 
 # storage.py
 # Handles all file operations for employees (read, write, search).
